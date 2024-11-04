@@ -4,8 +4,10 @@ import Features from "./components/LandingPage/Features";
 function App() {
   return (
     <>
-      <Hero />
-      <Features />
+      <div className="">
+        <Hero />
+        <Features />
+      </div>
     </>
   );
 }
