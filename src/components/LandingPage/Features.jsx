@@ -5,7 +5,7 @@ import lpImg from "../../assets/L-P-Img3.png";
 function Features() {
   return (
     <section className="px-10">
-      <h2 className="font-light text-5xl text-center">What to Expect</h2>
+      <h2 className="font-light text-3xl text-center">Benefits</h2>
       <FeaturesInfo
         head="Effortless Creation"
         body="Craft your portfolio in minutes with our intuitive readily made templates. No design skills required!"
