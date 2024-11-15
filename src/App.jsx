@@ -1,13 +1,9 @@
-import Hero from "./components/LandingPage/Hero";
-import Features from "./components/LandingPage/Features";
+import LandingPage from "./components/LandingPage/LandingPage";
 
 function App() {
   return (
     <>
-      <div className="">
-        <Hero />
-        <Features />
-      </div>
+      <LandingPage />
     </>
   );
 }
