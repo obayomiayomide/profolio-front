@@ -21,9 +21,7 @@ function Hero() {
             </span>
           </p>
         </div>
-        <div className="w-full">
-          <ActionBtn btnText="Get Started" bg="#1aa5ff" color="white" />
-        </div>
+        <ActionBtn btnText="Get Started" bg="#1aa5ff" color="white" />
       </div>
     </section>
   );

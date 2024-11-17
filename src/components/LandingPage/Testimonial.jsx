@@ -29,7 +29,7 @@ function Testimonial() {
     },
     {
       image: profileImage3,
-      name: "name",
+      name: "Abdulazeez O.",
       stack: "Product designer",
       testimony:
         "Profolio beautiful templates and it's remarkable functionality helped me create a stunning portfolio that showcases my design skills.",

@@ -19,7 +19,7 @@ function Features() {
       />
       <FeaturesInfo
         head="Tailored Templates"
-        body="Choose from a diverse range of customizable templates designed to fit every creative style—be it minimalist, bold, or artistic."
+        body="Choose from a diverse range of customizable templates designed to fit every creative style, be it minimalist, bold, or artistic."
         image={template}
       />
       <FeaturesInfo
