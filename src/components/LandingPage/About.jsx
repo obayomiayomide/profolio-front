@@ -10,7 +10,7 @@ function About() {
           <span className="text-xl font-semibold uppercase">Hello there</span>
           <br /> We are Profolio
         </h3>
-        <p className="lg:text-2xl text-xl mb-4 leading-[40px]">
+        <p className="lg:text-2xl text-xl mb-4 leading-[40px] text-grey">
           We empower professionals to shine. Our mission is to help build
           stunning potfolios that showcase skills and experience, making you
           stand out in the market.
